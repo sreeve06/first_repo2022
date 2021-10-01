@@ -1,10 +1,15 @@
+
+# the most basic of basic code as an intro to github
+
 greeting = "Hello Github"
-problem = "I have no idea what I'm doing."
+problem = "I'm new here and have no idea what I'm doing."
 
 print(greeting)
 print(problem)
 
+# get user input
 solution = input("Should I practice to get better? y or n: ")
+# if/else statement based on user input
 if solution == "y":
     print("Ok, I'll practice. Thanks for the advice.")
 else:
