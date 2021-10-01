@@ -5,9 +5,9 @@ print(greeting)
 print(problem)
 
 solution = input("Should I practice to get better? y or n: ")
-  if solution == "y":
+if solution == "y":
     print("Ok, I'll practice. Thanks for the advice.")
-  else:
+else:
     print("Guess I'm out of luck then. It's going to be a long term...")
 
 
